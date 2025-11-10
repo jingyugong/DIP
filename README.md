@@ -1,16 +1,19 @@
 # Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis
+by Jingyu Gong, Chong Zhang, Fengqi Liu, Ke Fan, Qianyu Zhou, Xin Tan, Zhizhong Zhang, Yuan Xie*
 
 <p align="center"> <img src="imgs/intro.jpg" width="70%"> </p>
 
 ## Introduction
-This repository provides the implementation of the paper *Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis*.
+This repository provides the implementation of our AAAI2026 paper *Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis*.
+
+Code is coming soon.
 
 ## Preparation
 ### Installation
 Please follow these instructions to set up your environment.
 
 ```
-cd DIP_SUPP_CODE
+cd DIP
 conda env create -f environment.yml
 conda activate dip
 python -m spacy download en_core_web_sm
