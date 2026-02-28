@@ -1,0 +1,1 @@
+python -m train.train_mdm --controlnet --dataset mixed --save_dir save/trained_models/mixed_action2motion_control --cond_mask_prob 0 --lambda_vel 1 --num_steps 400000 --batch_size 64 --resume_checkpoint ./save/trained_models/mixed_action2motion/model000605115.pt --lr 1e-5 --overwrite

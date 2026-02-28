@@ -1,0 +1,1 @@
+python -m sample.generate --model_path ./save/trained_models/mixed_action2motion_control/model001008525.pt --action_name "walk" --num_repetitions 1 --hint_ref_file /home/gongjingyu/gcode/RGBD/code/guided-motion-diffusion/dataset/processed_datasets/babel/walk/000700.npz

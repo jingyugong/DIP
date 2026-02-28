@@ -1,5 +1,5 @@
 # Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis
-by Jingyu Gong, Chong Zhang, Fengqi Liu, Ke Fan, Qianyu Zhou, Xin Tan, Zhizhong Zhang, Yuan Xie\*
+by Jingyu Gong, Chong Zhang, Fengqi Liu, Ke Fan, Qianyu Zhou, Xin Tan, Zhizhong Zhang\*, Yuan Xie
 
 <p align="center"> <img src="imgs/intro.jpg" width="70%"> </p>
 
