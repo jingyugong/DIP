@@ -24,6 +24,10 @@ pip install git+https://github.com/openai/CLIP.git
 Please download the [SMPL-X body model](https://smpl-x.is.tue.mpg.de/) and place it in the `./body_models/` folder.
 
 ### Dataset
+To help you get started more quickly, we have provided processed data here. The processed motion data is available [here](https://pan.baidu.com/s/1B1WgafenrHFJ7g7hCzpuQw?pwd=z8mh) with password: z8mh.
+
+If you want to modify the data processing, please download the original data from the following website.
+
 We train our models on [AMASS](https://amass.is.tue.mpg.de). Then, we evaluate our method on clutterd scenes from [DIMOS](https://github.com/zkf1997/DIMOS)+[ShapeNet](https://shapenet.org), [PROX](https://prox.is.tue.mpg.de/index.html)+[PROX-S](https://drive.google.com/drive/folders/1nV_S_m0Yl8p3sOaCLpz5IIZxoL4_TAtE?usp=sharing), and [Replica](https://github.com/facebookresearch/Replica-Dataset).
 All datasets downloaded from the links should be placed under the project's `dataset/` folder.
 
