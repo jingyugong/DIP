@@ -24,7 +24,7 @@ pip install git+https://github.com/openai/CLIP.git
 Please download the [SMPL-X body model](https://smpl-x.is.tue.mpg.de/) and place it in the `./body_models/` folder.
 
 ### Dataset
-To help you get started more quickly, we have provided processed data here. The processed motion data is available [here](https://pan.baidu.com/s/1B1WgafenrHFJ7g7hCzpuQw?pwd=z8mh) with password: z8mh.
+To help you get started more quickly, we have provided processed data here. The processed motion data is available [here](https://pan.baidu.com/s/1B1WgafenrHFJ7g7hCzpuQw?pwd=z8mh) with password: z8mh. Other processed data is coming.
 
 If you want to modify the data processing, please download the original data from the following website.
 
