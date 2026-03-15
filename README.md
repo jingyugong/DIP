@@ -31,6 +31,18 @@ All datasets downloaded from the links should be placed under the project's `dat
 
 For textual annotation, please download the [Babel](https://babel.is.tue.mpg.de/data.html) and [HumanML3D](https://github.com/EricGuo5513/HumanML3D) and place them in the `./dataset/amass/` folder.
 
+```
+project-folder/
+└── dataset
+    ├── processed_datasets
+    ├── dimos_data
+    │   ├── replica
+    │   ├── shapenet_real 
+    │   └── scenes
+    │       └── random_scene_test
+    └── PROX_data
+```
+
 ## Usage
 ### Data Preprocessing
 Please process the scene and training data separately.
