@@ -6,8 +6,6 @@ by Jingyu Gong, Chong Zhang, Fengqi Liu, Ke Fan, Qianyu Zhou, Xin Tan, Zhizhong 
 ## Introduction
 This repository provides the implementation of our AAAI2026 paper *Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis*.
 
-The code is currently being testing.
-
 ## Preparation
 ### Installation
 Please follow these instructions to set up your environment.
