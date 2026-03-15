@@ -33,14 +33,15 @@ For textual annotation, please download the [Babel](https://babel.is.tue.mpg.de/
 
 ```
 project-folder/
-└── dataset
-    ├── processed_datasets
-    ├── dimos_data
-    │   ├── replica
-    │   ├── shapenet_real 
-    │   └── scenes
-    │       └── random_scene_test
-    └── PROX_data
+└── dataset/
+    ├── processed_datasets/
+    ├── dimos_data/
+    │   ├── replica/
+    │   ├── shapenet_real/
+    │   └── scenes/
+    │       └── random_scene_test/
+    └── PROX_data/
+        └── proxs/
 ```
 
 ## Usage
